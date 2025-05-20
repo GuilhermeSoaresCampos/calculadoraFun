@@ -34,3 +34,7 @@ function menu():void{
     opcoes(opcao);
 }
 menu(); 
+
+
+
+
